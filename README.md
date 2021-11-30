@@ -23,35 +23,50 @@ consonants: p, t, k, f, s, sh (ʃ), l, w, j, m, n
 — tok! *(hello!)*  
 — tok tok! *(hello (reply))*  
 — tok makin o? *(do you want to talk about weather?)*  
-— awi. sin shuta powa. *(I do. I forsee rain today.)*  
-— sin awi. fofisi tiwa epoli. *(I agree (I forsee alike). The wind blew yesterday, from the North.)*  
-— awi. sin shuta lewa o? *(Same. Do you forsee rain tomorrow?)*  
+— awi. sin shuta powa. *(I do. I forsee light rain today.)*  
+— sin awi. fofisi tiwa epoli. *(I agree (I forsee alike). Strong winds blew yesterday, from the North.)*  
+— awi. sin shu lewa o? *(Same. Do you forsee rain tomorrow?)*  
 — sin konewi. si lume i aseniwo. *(I don't know precisely. Now, there is (I see) sun and Cumulus.)*  
 — awi. oton juma. *(Indeed. The temperature is going low.)*  
-— sin loshen shuta lewa.*(I'm not sure, but I forsee it might rain tomorrow.)*
+— sin loshen shu lewa.*(I'm not sure, but I forsee it might rain tomorrow.)*
 
 ## Lexicon
 
 ### Greetings / Politeness
 
 * tok!: (interj.) hello!
-* tok tok!: (interj.) hello (reply)
+* tok tok!: (interj.) hello (reply).
 
 ### Verbs
 
 * juma: (v) decrease.
-* si: (v) see (currently)
-* sin: (v) forsee, predict
-* tok: (v) talking
+* maku: (v) increase.
+* si: (v) see (currently).
+* sin: (v) forsee, predict.
+* tok: (v) talking.
 
 ### Nouns
 
-* aseniwo: (n) cumulus clouds
-* fofisi: (n) wind
+### General
+
+* ase (n): clouds.
 * lume: (n) sun, sunny, clear skies.
-* makin: (n) weather (generally speaking)
-* oton: (n) temperature
-* shuta: (n) rain
+* makin: (n) weather (generally speaking).
+* oton: (n) temperature.
+* shu: (n) rain.
+* fofu: (n) wind.
+
+### Rain
+
+* shuta: (n) light rain.
+
+### Clouds
+
+* aseniwo: (n) cumulus clouds.
+
+### Winds
+
+* fofisi: (n) strong winds.
 
 ### Adverbs
 
@@ -62,21 +77,22 @@ consonants: p, t, k, f, s, sh (ʃ), l, w, j, m, n
 
 ### Misc.
 
-* awi: (adverb?) indeed, "me too", agree
-* i: (conj.) and
-* o: (?) turns a sentence into a question
+* awi: (adverb?) indeed, "me too", agree.
+* ake: (adverb?) no, disagree, I don't think so.
+* i: (conj.) and.
+* o: (?) turns a sentence into a question.
 
 ### Contextual words
 
 #### Time
 
-* powa: (time context) today
-* tiwa: (time context) yesterday
-* lewa: (time context) tomorrow
+* lewa: (time context) tomorrow.
+* powa: (time context) today.
+* tiwa: (time context) yesterday.
 
 #### Space
 
-* epoli: (space context) from the North
+* epoli: (space context) from the North.
 
 ## Grammar
 

@@ -7,6 +7,7 @@
 * Removed pronouns, as suggested by /u/wibbly-water/.
 * Basic grammar.
 * Reorganized lexicon, by category.
+* Lexicon now differentiate general and more precise terms.
 
 ## First draft
 

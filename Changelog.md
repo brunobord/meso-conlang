@@ -8,6 +8,7 @@
 * Basic grammar.
 * Reorganized lexicon, by category.
 * Lexicon now differentiate general and more precise terms.
+* Extended Grammar.
 
 ## First draft
 

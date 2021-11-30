@@ -3,6 +3,7 @@
 ## master (unreleased)
 
 * Added CC0 License.
+* Reformatted phonetics table + removed unused columns.
 
 ## First draft
 

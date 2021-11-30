@@ -10,13 +10,13 @@ vowels: a, e, i, o, u
 
 consonants: p, t, k, f, s, sh (ʃ), l, w, j, m, n
 
-|                | labial | labiodental | dental | alveolar | alv-pal | velar | *glottal* |
-| -------------- | ------ | ----------- | ------ | -------- | --------- | ------- | --------- |
-| *stops*        | `p` |             |        | `t`    |           | `k`  |           |
-| *fricatives*   |        | `f v`       |   | `s`    | `ʃ ʒ` |         |        |
-| *affricates*   |        |             |        |          |   |         |           |
-| *approximants* | `w`    |             |        | `l`    | `j` |         |           |
-| *nasals*       | `m`    |             |        | `n`      |           |   |           |
+|                | labial | labiodental | alveolar | alv-pal | velar |
+|:---------------|:------:|:-----------:|:--------:|:-------:|:-----:|
+| *stops*        |  `p`   |             |   `t`    |         |  `k`  |
+| *fricatives*   |        |    `f v`    |   `s`    |  `ʃ ʒ`  |       |
+| *affricates*   |        |             |          |         |       |
+| *approximants* |  `w`   |             |   `l`    |   `j`   |       |
+| *nasals*       |  `m`   |             |   `n`    |         |       |
 
 ## Dialogue Example
 

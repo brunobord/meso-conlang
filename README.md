@@ -2,6 +2,8 @@
 
 A language to speak only about the weather.
 
+This language (grammar and vocabulary) is published under the terms of the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/deed). See the `LICENSE.md` file for more details.
+
 ## Phonetics
 
 vowels: a, e, i, o, u

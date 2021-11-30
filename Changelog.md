@@ -6,6 +6,7 @@
 * Reformatted phonetics table + removed unused columns.
 * Removed pronouns, as suggested by /u/wibbly-water/.
 * Basic grammar.
+* Reorganized lexicon, by category.
 
 ## First draft
 

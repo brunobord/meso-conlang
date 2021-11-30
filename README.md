@@ -32,27 +32,51 @@ consonants: p, t, k, f, s, sh (ʃ), l, w, j, m, n
 
 ## Lexicon
 
+### Greetings / Politeness
+
 * tok!: (interj.) hello!
 * tok tok!: (interj.) hello (reply)
-* tok: (v) talking
-* makin: (n) weather (generally speaking)
-* o: (?) turns a sentence into a question
-* awi: (adverb?) indeed, "me too", agree
-* sin: (v) forsee, predict
-* shuta: (n) rain
-* powa: (time context) today
+
+### Verbs
+
+* juma: (v) decrease.
 * si: (v) see (currently)
-* fofisi: (n) wind
-* tiwa: (time context) yesterday
-* epoli: (space context) from the North
-* lewa: (time context) tomorrow
-* konewi: (adverb) expressing doubt, no precise probability.
-* lume: (n) sun, sunny, clear skies.
-* i: (conj.) and
+* sin: (v) forsee, predict
+* tok: (v) talking
+
+### Nouns
+
 * aseniwo: (n) cumulus clouds
+* fofisi: (n) wind
+* lume: (n) sun, sunny, clear skies.
+* makin: (n) weather (generally speaking)
 * oton: (n) temperature
-* juma: (v) going low, decrease.
+* shuta: (n) rain
+
+### Adverbs
+
+#### Probability
+
+* konewi: (adverb) expressing doubt, no precise probability.
 * loshen: (adverb) expressing a 50-50 chance.
+
+### Misc.
+
+* awi: (adverb?) indeed, "me too", agree
+* i: (conj.) and
+* o: (?) turns a sentence into a question
+
+### Contextual words
+
+#### Time
+
+* powa: (time context) today
+* tiwa: (time context) yesterday
+* lewa: (time context) tomorrow
+
+#### Space
+
+* epoli: (space context) from the North
 
 ## Grammar
 

@@ -4,6 +4,8 @@
 
 * Added CC0 License.
 * Reformatted phonetics table + removed unused columns.
+* Removed pronouns, as suggested by /u/wibbly-water/.
+* Basic grammar.
 
 ## First draft
 

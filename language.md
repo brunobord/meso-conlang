@@ -136,4 +136,4 @@ Consider the following sentence:
 
 Sentence structure look like:
 
-> SUBJ VERB ADVERB OBJECT TIME SPACE.
+> (SUBJ) VERB ADVERB OBJECT TIME SPACE.

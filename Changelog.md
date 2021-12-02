@@ -2,13 +2,17 @@
 
 ## master (unreleased)
 
-* Added CC0 License.
-* Reformatted phonetics table + removed unused columns.
+### Language internals
+
 * Removed pronouns, as suggested by /u/wibbly-water/.
-* Basic grammar.
+* Added grammar.
 * Reorganized lexicon, by category.
+
+### Other
+
+* Added CC0 License.
 * Lexicon now differentiate general and more precise terms.
-* Extended Grammar.
+* Reformatted phonetics table + removed unused columns.
 
 ## First draft
 

@@ -8,7 +8,7 @@ I thought it would be fun to make a language with the right vocabulary and struc
 
 > — tok makin o? *(do you want to talk about weather?)*
 
-See the [language document](language.md) to learn more about this language, and eventually, learn it. Have fun!
+See the [language](language.md) and the [lexicon](lexicon.md) documents for more information. If you've tried to learn it, please tell me ; I'd be glad to collect your feedback.
 
 The first version of it was [published on Reddit](https://www.reddit.com/r/conlangs/comments/r44epb/wipno_name_yet_a_language_dedicated_to_talk_about/).
 

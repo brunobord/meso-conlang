@@ -24,9 +24,13 @@
 * *oshen*: (n) snow.
 * *oton*: (n) temperature.
 * *shu*: (n) rain.
+* *kakatoka*: (n) storms.
 
-### Rain
+### Rain & Precipitations
 
+* *oshema*: (n) snow storm.
+* *shukata*: (n) hail.
+* *shusan*: (n) drizzle.
 * *shuseki*: (n) heavy rain.
 * *shuta*: (n) light rain.
 
@@ -49,6 +53,7 @@
 * *fofeshunfi*: (n) tempest / hurricane.
 * *fofisi*: (n) strong winds.
 * *fofole*: (n) moderate winds.
+* *fofoshasi*: (n) tornadoes.
 
 ## Adverbs
 

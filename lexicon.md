@@ -19,7 +19,7 @@
 
 * ase (n): clouds.
 * lume: (n) sun, sunny, clear skies.
-* makin: (n) weather (generally speaking).
+* meso: (n) weather (generally speaking).
 * oton: (n) temperature.
 * shu: (n) rain.
 * fofu: (n) wind.

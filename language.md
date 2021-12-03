@@ -1,4 +1,4 @@
-# Weather talk
+# *meso* — The weather small-talk language
 
 ## Phonetics
 
@@ -18,7 +18,7 @@ consonants: p, t, k, f, s, sh (ʃ), l, w, j, m, n
 
 — tok! *(hello!)*  
 — tok tok! *(hello (reply))*  
-— tok makin o? *(do you want to talk about weather?)*  
+— tok meso o? *(do you want to talk about weather?)*  
 — awi. sin shuta powa. *(I do. I forsee light rain today.)*  
 — sin awi. fofisi tiwa epoli. *(I agree (I forsee alike). Strong winds blew yesterday, from the North.)*  
 — awi. sin shu lewa o? *(Same. Do you forsee rain tomorrow?)*  
@@ -65,7 +65,7 @@ Questions are directed to the other person, so there's no real ambiguity. When y
 
 Consider the following sentence:
 
-> tok makin o?
+> tok meso o?
 > talk - weather - QUESTION?
 
 You may translate it as:
@@ -80,7 +80,7 @@ The other person would respond with *tok! tok!*.
 
 The next question is the ritual question mentioned above:
 
-> tok makin o?
+> tok meso o?
 
 There are two possible answers here.
 

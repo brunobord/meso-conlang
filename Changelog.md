@@ -4,6 +4,8 @@
 
 ### Language internals
 
+* Changed the main word for "weather" = "*meso*".
+* Hence, the language name is now *meso*.
 * Removed pronouns, as suggested by /u/wibbly-water/.
 * Added grammar.
 * Reorganized lexicon, by category.

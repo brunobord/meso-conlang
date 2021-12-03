@@ -18,7 +18,7 @@
 ### General
 
 * *ase* (n): clouds.
-* *fofu*: (n) wind.
+* *fofe*: (n) wind.
 * *lume*: (n) sun, sunny, clear skies.
 * *meso*: (n) weather (generally speaking).
 * *oshen*: (n) snow.
@@ -27,15 +27,28 @@
 
 ### Rain
 
+* *shuseki*: (n) heavy rain.
 * *shuta*: (n) light rain.
 
 ### Clouds
 
+* *asefona*: (n) cirrocumulus clounds.
+* *aseja*: (n) cirrostratus clounds.
+* *asekalo*: (n) cirrus clouds.
+* *aseketan*: (n) stratus clounds.
+* *aselase*: (n) nimbostratus clounds.
+* *asemijo*: (n) altocumulus clounds.
+* *aseni*: (n) cumulonimbus clouds.
 * *aseniwo*: (n) cumulus clouds.
+* *aseshule*: (n) stratocumulus clounds.
+* *asetate*: (n) altostratus clounds.
 
 ### Winds
 
+* *fofen*: (n) light breeze.
+* *fofeshunfi*: (n) tempest / hurricane.
 * *fofisi*: (n) strong winds.
+* *fofole*: (n) moderate winds.
 
 ## Adverbs
 
@@ -55,7 +68,15 @@
 
 ### Time
 
+* *ipiwa*: (time context) in the late afternoon.
 * *lewa*: (time context) tomorrow.
+* *lusiwa*: (time context) in the early morning, sunrise.
+* *lutawa*: (time context) during the morning.
+* *makowa*: (time context) after noon.
+* *menwa*: (time context) around noon.
+* *mishewa*: (time context) later in the night.
+* *okewa*: (time context) early in the night.
+* *oshiwa*: (time context) at sunset, in the evening.
 * *powa*: (time context) today.
 * *tiwa*: (time context) yesterday.
 

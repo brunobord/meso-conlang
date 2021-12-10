@@ -20,9 +20,9 @@ consonants: p, t, k, f, s, sh (ʃ), l, w, j, m, n
 — tok tok! *(hello (reply))*  
 — tok meso o? *(do you want to talk about weather?)*  
 — awi. sin shuta powa. *(I do. I forsee light rain today.)*  
-— sin awi. fofisi tiwa epoli. *(I agree (I forsee alike). Strong winds blew yesterday, from the North.)*  
+— sin awi. fofe tiwa epoli. *(I agree (I forsee alike). Winds blew yesterday, from the North.)*  
 — awi. sin shu lewa o? *(Same. Do you forsee rain tomorrow?)*  
-— sin konewi. si lume i aseniwo. *(I don't know precisely. Now, there is (I see) sun and Cumulus.)*  
+— sin konewi. si lume i ase. *(I don't know precisely. Now, there is (I see) sun and clouds.)*  
 — awi. oton juma. *(Indeed. The temperature is going low.)*  
 — sin loshen shu lewa.*(I'm not sure, but I forsee it might rain tomorrow.)*
 
@@ -72,7 +72,17 @@ You may translate it as:
 
 > Do you want to talk about weather?
 
-### Prelude / Etiquette
+### Conjonctions
+
+The word "*i*" means "and". The word TODO means "or".
+
+They may link several nouns or several verbs, or context words.
+
+TODO: examples
+
+### Etiquette
+
+#### Prelude
 
 When speaking this language, you'll start your conversation with the usual *tok!*, which is roughly equivalent to *hello!*.
 
@@ -84,13 +94,17 @@ The next question is the ritual question mentioned above:
 
 There are two possible answers here.
 
-Either the person doesn't want to, so their response should simply be *ake.* or *tok ake.* to reject the discussion. From now on, the persons would carry on and no further questions will be asked.
+Either the person doesn't want to, so their response should simply be "*ake.*" or "*tok ake.*" to reject the discussion. From now on, the persons would carry on, say goodbye to each other, and no further words will be exchanged until next time.
 
-Or the person is willing to talk about the weather, so they can respond with *awi* or *tok awi*, followed by their impression about the current or incoming weather. Such as:
+In the second case, the person is willing to talk about the weather, so they can respond with *awi* or *tok awi*, followed by their impression about the current or incoming weather. Such as:
 
 > — awi tok. lume tiwa i powa. (*I want to talk. It was sunny yesterday, same for today.*)
 
-## Advanced sentence structure
+#### Closing
+
+TODO: how to finish a dialogue, say goodbye.
+
+### Advanced sentence structure
 
 Full sentence structure would look like:
 
@@ -99,3 +113,13 @@ Full sentence structure would look like:
 Time context will express if the statement is for the near future (later today, tomorrow) or in a more distant future (this week, or even up to the next season).
 
 Space context will mostly be based on the cardinal points to express where does the meteorological phenomenon comes from.
+
+### Adjectives
+
+When an adjective is added to the words, it comes after it. e.g.:
+
+> fofe eleja tiwa. (*A nice breeze blew yesterday.*)
+
+## Common *meso* and Higher *meso*
+
+TODO

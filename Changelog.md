@@ -7,8 +7,9 @@
 * Changed the main word for "weather" = "*meso*".
 * Hence, the language name is now *meso*.
 * Removed pronouns, as suggested by /u/wibbly-water/.
-* Added grammar.
+* Added grammar rules.
 * Reorganized lexicon, by category.
+* vocabulary is divided in two parts: the common *meso*, with basic and generic words about the weather, and the higher *meso*, using advanced vocabulary.
 
 ### Other
 

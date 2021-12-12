@@ -52,6 +52,7 @@
 ### Space
 
 * *epoli*: (space context) from the North.
+* *manete*: (space context) from the South.
 
 ----
 

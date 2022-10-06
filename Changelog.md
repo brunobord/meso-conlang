@@ -2,7 +2,9 @@
 
 ## master (unreleased)
 
-Nothing here yet.
+### Changes
+
+* Added LaTeX build.
 
 ## 2.0 (2022-10-07)
 

@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.0 (2022-10-07)
 
 ### Language internals
 
